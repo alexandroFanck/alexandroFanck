@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alexandroFanck
-- 👀 I'm interested in creating web, notebook and cell phone applications
+# Hi, I’m @alexandroFanck
+- 👀 I'm interested in creating web applications
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on creating mobile apps
 - 📫 contact discord:solg_js
