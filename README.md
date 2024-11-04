@@ -2,8 +2,7 @@
 - 👀 I'm interested in creating web applications
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on creating mobile apps
-- 📫 contact discord:solg_js
-- 😄 Pronouns: ...
+- 📫 contact discord: [solg_js](https://sla.rf.gd)
 - ⚡ Fun fact: ...
 
 <!---
