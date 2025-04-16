@@ -1,9 +1,8 @@
 # Hi, I’m @alexandroFanck
 - 👀 I'm interested in creating web applications
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on creating mobile apps
-- 📫 contact discord: [solg_js](https://sla.rf.gd)
-- ⚡ Fun fact: ...
+- 📫 contact E-mail: contato@sprits.ct.ws
 
 <!---
 alexandroFanck/alexandroFanck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
